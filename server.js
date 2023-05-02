@@ -1,2 +1,2 @@
 console.log("Hello world");
-console.log(env.PORT)
+console.log(process.env.PORT)
